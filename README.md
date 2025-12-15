@@ -58,11 +58,49 @@ Duplicates were checked using:
 -Converted SeniorCitizen from integer to categorical values (Yes / No)
 
 ## 📊 Exploratory Data Analysis (EDA)
-🔹 Overall Churn Distribution
+### 🔹 Overall Churn Distribution
+- Calculated churned vs retained customer counts
 
--Calculated total churned vs retained customers
--Compared churn behavior across genders
--Identified churn patterns among senior vs non-senior customers
+---
+
+### 🔹 Churn by Demographics
+- Gender-wise churn distribution
+- Senior Citizen vs Non-Senior churn comparison
+
+📌 **Insight**:
+- **41.68% Senior Citizens churned**
+- **23.61% Non-Senior Citizens churned**
+
+---
+
+### 🔹 Churn by Tenure
+- Analyzed churn counts across customer tenure
+- Found **highest churn during early months**
+- Long-tenure customers showed higher retention
+
+---
+
+### 🔹 Churn by Contract Type
+📌 **Month-to-month contracts have the highest churn**
+
+---
+
+### 🔹 Churn by Payment Method
+📌 **Electronic Check users exhibit the highest churn**
+
+---
+
+### 🔹 Churn by Internet Service
+📌 **Fiber Optic customers have the highest churn rate**
+
+---
+
+### 🔹 Churn by Value-Added Services
+- **Online Security**:
+  - **41.7% of customers without Online Security churned**
+- **Online Backup**:
+  - **41.7% of customers without Online Backup churned**
+
 
 ## Key Business Insights
 
