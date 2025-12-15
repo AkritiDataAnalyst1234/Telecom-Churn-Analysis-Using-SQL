@@ -57,7 +57,7 @@ Duplicates were checked using:
 
 -Converted SeniorCitizen from integer to categorical values (Yes / No)
 
-📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 🔹 Overall Churn Distribution
 
 -Calculated total churned vs retained customers
